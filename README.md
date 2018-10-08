@@ -88,6 +88,15 @@ Start adding your names here:
 [![twitter-alt][twitter-img]](https://twitter.com/beno_cd)
 [![github-alt][github-img]](https://github.com/benocd)
   
+### Divyum Bhumra
+- Final Year Computer Engineering Student from Panjab University, Chandigarh, India
+- President at Rotaract Club Chandigarh Himalayan(We are Family of 600+ Rotaractors)
+- Loves Graphic Designing | Blockchain, Deep Learning Enthusiast | Exploring Android & Web Development :') 
+- My hobbies include: Photography, Binge Watching YouTube/Anime/TV Shows & Trying out New Music
+- [![twitter-alt][twitter-img]](https://twitter.com/divz7777)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/divyum)
+  [![github-alt][github-img]](https://github.com/divzhere)
+  
 ### duongoku
 - I'm a student and I'm in last year of highschool.
 - I'm interested in competitive programming, physics, calculus and tech stuff.
@@ -207,6 +216,8 @@ Start adding your names here:
 - Computer science student
 - Nerd, geek, gamer, I love TLoK
   [![github-alt][github-img]](https://github.com/frannievas)
+  
+  
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
